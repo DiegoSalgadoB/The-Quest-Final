@@ -5,7 +5,7 @@ pip install pygame
 Clonar el Repositorio:
 Clona este repositorio en tu máquina local ejecutando el siguiente comando en tu terminal:
 
-git clone https://github.com/DiegoSalgadoB/The-Quest %USERPROFILE%\Desktop\The-Quest
+git clone https://github.com/DiegoSalgadoB/The-Quest-Final %USERPROFILE%\Desktop\The-Quest
 
 # Ejecutar el Juego:
 Navega hasta el directorio donde clonaste el repositorio, si copiaste la linea de comando completa debe estar en el escritorio.
